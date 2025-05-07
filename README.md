@@ -1,4 +1,4 @@
 # -
-deme是每一道题的代码。
-图片里面是一些书写作答。
-hw1.ipynb,hw2.ipynb,hw3.ipynb,hw4.ipynb是四个作业的题目和作答，可以在jupyter notebook上直接查看。
+deme是每一道题的代码。  
+图片里面是一些书写作答。  
+hw1.ipynb,hw2.ipynb,hw3.ipynb,hw4.ipynb是四个作业的题目和作答，可以在jupyter notebook上直接查看。  
